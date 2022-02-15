@@ -64,4 +64,3 @@ The focus of these resources is more on building resilience against the systemic
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
  * NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
 
-## Books

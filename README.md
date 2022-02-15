@@ -11,8 +11,20 @@ The focus of these resources is more on building resilience against the systemic
    * [Books]()
 
 ## Guidance
+* Joint CISA/NCSC-UK/ACSC: AA22-040A: [2021 Trends Show Increased Globalized Threat of Ransomware](https://www.cisa.gov/uscert/ncas/alerts/aa22-040a) (2022-02)
+* [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/):
+	* [StopRansomware](https://www.cisa.gov/stopransomware)
+	* MS-ISAC [Ransomware Guide](https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C.pdf) + [Ransomware Response Checklist](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)(2020-09)
+	* Threat Actors: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
+	* AA20-302A: [Ransomware Activity Targeting the Healthcare and Public Health Sector](https://www.cisa.gov/uscert/ncas/alerts/aa20-302a)
+	* AA20-049A: [Ransomware Impacting Pipeline Operations](https://www.cisa.gov/uscert/ncas/alerts/aa20-049a)
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
-
+* Australian Cyber Security Centre (ACSC):
+	* Ransomware {[Emergency Response One-Pager](https://www.cyber.gov.au/sites/default/files/2021-10/ACSC-ransomware-emergency-response-one-page-guide.pdf), [Prevention and Protection Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Prevention-And-Protection-Guide_Accessible_08.12.20.pdf), [Action Checklist](https://www.cyber.gov.au/themes/custom/cga/images/doc-icon-pdf-full-colour.png), [Emergency Response Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Emergency-Response-Guide_Accessible_08.12.20.pdf)}
+* NCSC-UK:
+	* [Mitigating malware and ransomware attacks](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks) (2021-09)
+	* Ransomware: [What board members should know and what they should be asking their technical experts](https://www.ncsc.gov.uk/blog-post/what-board-members-should-know-about-ransomware) (2021-06)
+* CERT-EU:
 
 ## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
@@ -55,6 +67,12 @@ The focus of these resources is more on building resilience against the systemic
 * [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
 * Lockheed-Martin: [Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf) + [Defendable Architectures ](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Defendable-Architectures.pdf) (2019)
 * Richard Bejtlich: [Defensible Network Architecture 2.0](https://taosecurity.blogspot.com/2008/01/defensible-network-architecture-20.html) (2008)
+* CISA:
+	* AA21-116A:  [Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders](https://www.cisa.gov/uscert/ncas/alerts/aa21-116a)
+	* AA22-011A: [Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure ](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a)
+	* AA21-008A: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://www.cisa.gov/uscert/ncas/alerts/aa21-008a) 
+	* AA20-073A: [Enterprise VPN Security](https://www.cisa.gov/uscert/ncas/alerts/aa20-073a)
+* NSA: [Selecting and Hardening Remote Access VPN Solutions](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF) (2021-09)
 
 ## ‘Zero’ Trust
 * US Office of Management and Budget: [Moving the U.S. Government Towards Zero Trust Cybersecurity Principle](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)' (2022-01)

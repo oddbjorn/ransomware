@@ -3,11 +3,11 @@ The focus of these resources is more on building resilience against the systemic
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center  (CSRC) 
-		- NISTIR 8374: [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (September 2021)
+		- [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (NIST IR 8374, September 2021)
 		- [Securing Data Integrity Against Ransomware Attacks: Using the NIST Cybersecurity Framework and NIST Cybersecurity Practice Guides](https://csrc.nist.gov/publications/detail/white-paper/2020/10/01/securing-data-integrity-against-ransomware-attacks/draft)
-		- SP 1800-11: [Data Integrity: Recovering from Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-11/final) (September 2020)
-		- SP 1800-25: [Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-25/final) (December 2020)
-		- SP 1800-26: [Detecting and Responding to Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-26/final) (December 2020)
+		- [Data Integrity: Recovering from Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-11/final) (SP 1800-11, September 2020)
+		- [Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-25/final) (SP 1800-25, December 2020)
+		- [Detecting and Responding to Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-26/final) (SP 1800-26, December 2020)
 	* National Cybersecurity Center of Excellence (NCCoE):
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 * European Union Agency for Cybersecurity (ENISA):
@@ -22,8 +22,8 @@ The focus of these resources is more on building resilience against the systemic
   * [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
  * [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
+## Books
+## Selected Nordic Ransomware Incidents (2019-)
+![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
 ## Simulators
 - [Ransim](https://id-ransomware.malwarehunterteam.com/)
-## Books
-## Nordic Ransomware Incidents (2019-)
-![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)

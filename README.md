@@ -1,4 +1,14 @@
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
+# Table of Contents
+* [Resources]()(#resources)
+   * [Cyber Insurance]()(#cyber-insurance)
+   * [Vulnerability Management]()(#vulnerability-management)
+   * [Selected Papers]()(#selected-papers)
+   * [Miscellaneous]()(#miscellaneous)
+   * [Selected Nordic Ransomware Incidents (2019-)]()(#selected-nordic-ransomware-incidents-2019-)
+   * [Simulators]()(#simulators)
+   * [Books]()(#books)
+
 # Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
@@ -22,14 +32,14 @@ The focus of these resources is more on building resilience against the systemic
 * CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
  * NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
-## Papers
+## Selected Papers
 * [The Transnational Cybercrime Extortion Landscape and the Pandemic: Changes in Ransomware Offender Tactics, Attack Scalability and the Organisation of Offending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908159) - David S. Wall, European Law Enforcement Research Bulletin (2021)
 ## Miscellaneous
   * [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
  * [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
-## Books
 ## Selected Nordic Ransomware Incidents (2019-)
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
 ## Simulators
 - [Ransim](https://id-ransomware.malwarehunterteam.com/)
+## Books

@@ -26,4 +26,4 @@ The focus of these resources is more on building resilience against the systemic
 - [Ransim](https://id-ransomware.malwarehunterteam.com/)
 ## Books
 ## Nordic Ransomware Incidents (2019-)
-![alt text]()(https://github.com/oddbjorn/ransomware/Selected%20Nordic%20Ransomware%20Incidents.png)
+![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)

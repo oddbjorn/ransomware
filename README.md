@@ -10,15 +10,6 @@ The focus of these resources is more on building resilience against the systemic
    * [Selected Nordic Ransomware Incidents]()
    * [Books]()
 
-## Table of Contents
-* [Resources]()
- * [Cyber Insurance]()
-   * [Vulnerability Management]()
-   * [Selected Papers]()
-   * [Miscellaneous]()
-   * [Selected Nordic Ransomware Incidents)]()
-   * [Simulators]()
-   * [Books]()
 ## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)

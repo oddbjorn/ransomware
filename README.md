@@ -1,5 +1,6 @@
+# Enterprise Ransomware Resources
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
-# Table of Contents
+## Table of Contents
 * [Resources]()(#resources)
    * [Cyber Insurance]()(#cyber-insurance)
    * [Vulnerability Management]()(#vulnerability-management)
@@ -9,7 +10,7 @@ The focus of these resources is more on building resilience against the systemic
    * [Simulators]()(#simulators)
    * [Books]()(#books)
 
-# Resources
+## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
 * National Institute of Science and Technology (NIST):

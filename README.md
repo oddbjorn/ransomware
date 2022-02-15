@@ -25,7 +25,6 @@ The focus of these resources is more on building resilience against the systemic
 	* AA20-049A: [Ransomware Impacting Pipeline Operations](https://www.cisa.gov/uscert/ncas/alerts/aa20-049a)
 * FBI Internet Crime Complaint Center (IC3):
 	* CISA-FBI Guidance for MSPs and their Customers Affected by the Kaseya VSA Supply-Chain Ransomware Attack
-
 * Australian Cyber Security Centre (ACSC):
 	* Ransomware {[Emergency Response One-Pager](https://www.cyber.gov.au/sites/default/files/2021-10/ACSC-ransomware-emergency-response-one-page-guide.pdf), [Prevention and Protection Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Prevention-And-Protection-Guide_Accessible_08.12.20.pdf), [Action Checklist](https://www.cyber.gov.au/sites/default/files/2021-09/11936_ACSC_Ransomware_Action_Checklist_v1.pdf), [Emergency Response Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Emergency-Response-Guide_Accessible_08.12.20.pdf)} (not really aimed at the enterprise level)
 * NCSC-UK:

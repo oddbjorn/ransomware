@@ -11,20 +11,36 @@ The focus of these resources is more on building resilience against the systemic
    * [Books]()
 
 ## Guidance
+* [ransomware.org](https://ransomware.org/):
+	* Really excellent material on [what ransomware is](https://ransomware.org/what-is-ransomware/), [how it works](https://ransomware.org/how-does-ransomware-work/), [how to prevent it](https://ransomware.org/how-to-prevent-ransomware/) and [how to remove it](https://ransomware.org/how-to-remove-ransomware/)
+	* [Ransomware Fundamentals](https://ransomware.org/videos/) videos and webinars
+	* The [Ransomware - Understand. Prevent. Recover.](https://ransomware.org/book/) by [Allen Liska](https://twitter.com/uuallan/) (2021)
+* FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
 * Joint CISA/NCSC-UK/ACSC: AA22-040A: [2021 Trends Show Increased Globalized Threat of Ransomware](https://www.cisa.gov/uscert/ncas/alerts/aa22-040a) (2022-02)
 * [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/):
 	* [StopRansomware](https://www.cisa.gov/stopransomware)
+	* [Cyber Security Evaluation Tool](https://www.cisa.gov/stopransomware/cyber-security-evaluation-tool-csetr) (CSET) with a Ransomware Readiness Assessment (RRA) module
 	* MS-ISAC [Ransomware Guide](https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C.pdf) + [Ransomware Response Checklist](https://www.cisa.gov/stopransomware/ive-been-hit-ransomware)(2020-09)
-	* Threat Actors: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
 	* AA20-302A: [Ransomware Activity Targeting the Healthcare and Public Health Sector](https://www.cisa.gov/uscert/ncas/alerts/aa20-302a)
 	* AA20-049A: [Ransomware Impacting Pipeline Operations](https://www.cisa.gov/uscert/ncas/alerts/aa20-049a)
-* FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
+* FBI Internet Crime Complaint Center (IC3):
+	* CISA-FBI Guidance for MSPs and their Customers Affected by the Kaseya VSA Supply-Chain Ransomware Attack
+
 * Australian Cyber Security Centre (ACSC):
-	* Ransomware {[Emergency Response One-Pager](https://www.cyber.gov.au/sites/default/files/2021-10/ACSC-ransomware-emergency-response-one-page-guide.pdf), [Prevention and Protection Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Prevention-And-Protection-Guide_Accessible_08.12.20.pdf), [Action Checklist](https://www.cyber.gov.au/themes/custom/cga/images/doc-icon-pdf-full-colour.png), [Emergency Response Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Emergency-Response-Guide_Accessible_08.12.20.pdf)}
+	* Ransomware {[Emergency Response One-Pager](https://www.cyber.gov.au/sites/default/files/2021-10/ACSC-ransomware-emergency-response-one-page-guide.pdf), [Prevention and Protection Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Prevention-And-Protection-Guide_Accessible_08.12.20.pdf), [Action Checklist](https://www.cyber.gov.au/sites/default/files/2021-09/11936_ACSC_Ransomware_Action_Checklist_v1.pdf), [Emergency Response Guide](https://www.cyber.gov.au/sites/default/files/2021-07/11515_ACSC_Emergency-Response-Guide_Accessible_08.12.20.pdf)} (not really aimed at the enterprise level)
 * NCSC-UK:
 	* [Mitigating malware and ransomware attacks](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks) (2021-09)
 	* Ransomware: [What board members should know and what they should be asking their technical experts](https://www.ncsc.gov.uk/blog-post/what-board-members-should-know-about-ransomware) (2021-06)
-* CERT-EU:
+* NCSC-NZ:
+* [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/): ITSAP.00.099: [How to prevent and recover from ransomware](https://cyber.gc.ca/en/guidance/ransomware-how-prevent-and-recover-itsap00099) (2021-09) + [Ransomware playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2021-11)
+
+## Threat Actors and TTPs:
+This resource 
+* CISA: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
+* FBI/USSS: [BlackByte](https://www.ic3.gov/Media/News/2022/220211.pdf) (2022-02)
+* ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)
+* CERT-FR: CERTFR-2021-CTI-006: [Ryuk](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-006/) (2021-02), CERTFR-2021-CTI-007: [Egregor](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-007/) (2021-03)
+* [The DFIR Report](https://thedfirreport.com/) (multiple excellent blog posts)
 
 ## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
@@ -50,12 +66,15 @@ The focus of these resources is more on building resilience against the systemic
 * Lloyds:
 	- [Guidance for Handling a Ransomware Incident](https://www.lmalloyds.com/LMA/News/Blog/guidance_101221.aspx) (2021-12)
 	- Y5359: [Guidance for Handling a Ransomware Claim Incident](https://assets.lloyds.com/media/152f8157-8c79-42b1-8a41-792b3dbc88dd/Y5359-Guidance-for-handling-a-ransomware-claim-incident.pdf) (2021-12)
-		 
+
+## Storage Management, incl. and Backup/Restore	 
 ## Miscellaneous
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
  - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
 * Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
+
+## Books:
 
 ## Selected Nordic Ransomware Incidents
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
@@ -72,6 +91,7 @@ The focus of these resources is more on building resilience against the systemic
 	* AA22-011A: [Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure ](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a)
 	* AA21-008A: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://www.cisa.gov/uscert/ncas/alerts/aa21-008a) 
 	* AA20-073A: [Enterprise VPN Security](https://www.cisa.gov/uscert/ncas/alerts/aa20-073a)
+
 * NSA: [Selecting and Hardening Remote Access VPN Solutions](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF) (2021-09)
 
 ## ‘Zero’ Trust

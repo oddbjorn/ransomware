@@ -1,6 +1,8 @@
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
-# Selected resources related to ransomware defense
+# Resources
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
+* sdf
+	- sdfsdf
 ## Papers
 * [The Transnational Cybercrime Extortion Landscape and the Pandemic: Changes in Ransomware Offender Tactics, Attack Scalability and the Organisation of Offending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908159) - David S. Wall, European Law Enforcement Research Bulletin (2021)
 ## Resources

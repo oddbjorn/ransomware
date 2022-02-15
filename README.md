@@ -1,5 +1,15 @@
 # Enterprise Ransomware Resources
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
+
+## Table of Contents
+   * [Resources]()
+   * [Cyber Insurance]()
+   * [Vulnerability Management]()
+   * [Selected Papers]()
+   * [Miscellaneous]()
+   * [Selected Nordic Ransomware Incidents]()
+   * [Books]()
+
 ## Table of Contents
 * [Resources]()
  * [Cyber Insurance]()
@@ -44,6 +54,6 @@ The focus of these resources is more on building resilience against the systemic
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
 * Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
 
-## Selected Nordic Ransomware Incidents (2019-)
+## Selected Nordic Ransomware Incidents
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
 ## Books

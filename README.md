@@ -24,16 +24,6 @@ The focus of these resources is more on building resilience against the systemic
 * NCSC-NZ: [Protecting from ransomware](https://www.cert.govt.nz/business/guides/protecting-from-ransomware/), incl. lifecycle of a ransomware incident flowchart (2021) 
 * [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/):
 	* ITSAP.00.099: [How to prevent and recover from ransomware](https://cyber.gc.ca/en/guidance/ransomware-how-prevent-and-recover-itsap00099) (2021-09) + [Ransomware playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2021-11)
-
-## Threat Actors and TTPs:
-This resource 
-* CISA: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
-* FBI/USSS: [BlackByte](https://www.ic3.gov/Media/News/2022/220211.pdf) (2022-02)
-* ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)
-* CERT-FR: CERTFR-2021-CTI-006: [Ryuk](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-006/) (2021-02), CERTFR-2021-CTI-007: [Egregor](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-007/) (2021-03)
-* [The DFIR Report](https://thedfirreport.com/) (multiple excellent blog posts)
-
-## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
@@ -50,6 +40,14 @@ This resource
 - Information Security Forum (ISF): Extinction Level Attacks: A Survival Guide (2020-11), Understanding the Ransomware Menace (2021)
 - VirusTotal: [Ransomware in a Global Context ](https://www.virustotal.com/go/ransomware-in-a-global-context-2021)(2021-10) 
 
+## Threat Actors and TTPs:
+This resource 
+* CISA: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
+* FBI/USSS: [BlackByte](https://www.ic3.gov/Media/News/2022/220211.pdf) (2022-02)
+* ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)
+* CERT-FR: CERTFR-2021-CTI-006: [Ryuk](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-006/) (2021-02), CERTFR-2021-CTI-007: [Egregor](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-007/) (2021-03)
+* [The DFIR Report](https://thedfirreport.com/) (multiple excellent blog posts)
+
 ## Selected Papers
 * [The Transnational Cybercrime Extortion Landscape and the Pandemic: Changes in Ransomware Offender Tactics, Attack Scalability and the Organisation of Offending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908159) - David S. Wall, European Law Enforcement Research Bulletin (2021)
 
@@ -58,14 +56,13 @@ This resource
 	- [Guidance for Handling a Ransomware Incident](https://www.lmalloyds.com/LMA/News/Blog/guidance_101221.aspx) (2021-12)
 	- Y5359: [Guidance for Handling a Ransomware Claim Incident](https://assets.lloyds.com/media/152f8157-8c79-42b1-8a41-792b3dbc88dd/Y5359-Guidance-for-handling-a-ransomware-claim-incident.pdf) (2021-12)
 
-## Storage Management, incl. and Backup/Restore	 
+## Storage Management, incl. and Backup/Restore
+
 ## Miscellaneous
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
  - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
 * Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
-
-## Books:
 
 ## Selected Nordic Ransomware Incidents
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)

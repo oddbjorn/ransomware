@@ -17,6 +17,8 @@ The focus of these resources is more on building resilience against the systemic
 * [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
 * Lockheed-Martin: [Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf) + [Defendable Architectures ](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Defendable-Architectures.pdf) (2019)
 * Richard Bejtlich: [Defensible Network Architecture 2.0](https://taosecurity.blogspot.com/2008/01/defensible-network-architecture-20.html) (2008)
+## ‘Zero’ Trust
+* US Office of Management and Budget: [Moving the U.S. Government Towards Zero Trust Cybersecurity Principle](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)' (2022-01)
 
 ## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)

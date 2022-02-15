@@ -31,8 +31,9 @@ The focus of these resources is more on building resilience against the systemic
 * NCSC-UK:
 	* [Mitigating malware and ransomware attacks](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks) (2021-09)
 	* Ransomware: [What board members should know and what they should be asking their technical experts](https://www.ncsc.gov.uk/blog-post/what-board-members-should-know-about-ransomware) (2021-06)
-* NCSC-NZ:
-* [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/): ITSAP.00.099: [How to prevent and recover from ransomware](https://cyber.gc.ca/en/guidance/ransomware-how-prevent-and-recover-itsap00099) (2021-09) + [Ransomware playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2021-11)
+* NCSC-NZ: [Protecting from ransomware](https://www.cert.govt.nz/business/guides/protecting-from-ransomware/), incl. lifecycle of a ransomware incident flowchart (2021) 
+* [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/):
+	* ITSAP.00.099: [How to prevent and recover from ransomware](https://cyber.gc.ca/en/guidance/ransomware-how-prevent-and-recover-itsap00099) (2021-09) + [Ransomware playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2021-11)
 
 ## Threat Actors and TTPs:
 This resource 

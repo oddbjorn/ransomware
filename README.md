@@ -10,9 +10,16 @@ The focus of these resources is more on building resilience against the systemic
    * [Selected Nordic Ransomware Incidents]()
    * [Books]()
 
+## Guidance
+* FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
+
+## Defendable Infrastructure
+* [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
+* Lockheed-Martin: [Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf) + [Defendable Architectures ](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Defendable-Architectures.pdf) (2019)
+* Richard Bejtlich: [Defensible Network Architecture 2.0](https://taosecurity.blogspot.com/2008/01/defensible-network-architecture-20.html) (2008)
+
 ## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
-* FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
 		- IR 8374 [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (2021-09)
@@ -24,7 +31,6 @@ The focus of these resources is more on building resilience against the systemic
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 * European Union Agency for Cybersecurity (ENISA):
 	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (2021-10)
-* [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
 
 ## Cyber Insurance
 * Lloyds:

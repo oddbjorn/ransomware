@@ -38,6 +38,17 @@ The focus of these resources is more on building resilience against the systemic
 * Lloyds:
 	- [Guidance for Handling a Ransomware Incident](https://www.lmalloyds.com/LMA/News/Blog/guidance_101221.aspx) (2021-12)
 	- Y5359: [Guidance for Handling a Ransomware Claim Incident](https://assets.lloyds.com/media/152f8157-8c79-42b1-8a41-792b3dbc88dd/Y5359-Guidance-for-handling-a-ransomware-claim-incident.pdf) (2021-12)
+		 
+## Miscellaneous
+  - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
+ - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
+* [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
+* Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
+
+## Selected Nordic Ransomware Incidents
+![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
+
+---- 
 
 ## Defendable Infrastructure
 * [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
@@ -53,12 +64,4 @@ The focus of these resources is more on building resilience against the systemic
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
  * NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
 
-## Miscellaneous
-  * [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
- * [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
-* [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
-* Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
-
-## Selected Nordic Ransomware Incidents
-![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
 ## Books

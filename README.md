@@ -1,15 +1,14 @@
 # Enterprise Ransomware Resources
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
 ## Table of Contents
-* [Resources]()(#resources)
-   * [Cyber Insurance]()(#cyber-insurance)
-   * [Vulnerability Management]()(#vulnerability-management)
-   * [Selected Papers]()(#selected-papers)
-   * [Miscellaneous]()(#miscellaneous)
-   * [Selected Nordic Ransomware Incidents (2019-)]()(#selected-nordic-ransomware-incidents-2019-)
-   * [Simulators]()(#simulators)
-   * [Books]()(#books)
-
+* [Resources]()
+ * [Cyber Insurance]()
+   * [Vulnerability Management]()
+   * [Selected Papers]()
+   * [Miscellaneous]()
+   * [Selected Nordic Ransomware Incidents)]()
+   * [Simulators]()
+   * [Books]()
 ## Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)

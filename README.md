@@ -13,6 +13,7 @@ The focus of these resources is more on building resilience against the systemic
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 * European Union Agency for Cybersecurity (ENISA):
 	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (2021-10)
+* [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
 ## Cyber Insurance
 * Lloyds:
 	- [Guidance for Handling a Ransomware Incident](https://www.lmalloyds.com/LMA/News/Blog/guidance_101221.aspx) (2021-12)

@@ -12,10 +12,10 @@ The focus of these resources is more on building resilience against the systemic
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 * European Union Agency for Cybersecurity (ENISA):
 	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (October 2021)
-## Critical Vulnerability Management
-* CISA 
-	- [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+## Vulnerability Management
+* CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (February 2022)
+ * NIST: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (SP 800-40r4, November 2021)
 ## Selected papers
 * [The Transnational Cybercrime Extortion Landscape and the Pandemic: Changes in Ransomware Offender Tactics, Attack Scalability and the Organisation of Offending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908159) - David S. Wall, European Law Enforcement Research Bulletin (2021)
 ## Miscellaneous

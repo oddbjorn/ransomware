@@ -1,7 +1,6 @@
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
 # Resources
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
-	- Briefing Slides
 * FS-ISAC: [Ransomware Essentials](https://www.fsisac.com/ransomware-essentials)
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
@@ -14,7 +13,11 @@ The focus of these resources is more on building resilience against the systemic
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 * European Union Agency for Cybersecurity (ENISA):
 	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (2021-10)
-## Vulnerability Management
+## Cyber Insurance
+* Lloyds:
+	- [Guidance for Handling a Ransomware Incident](https://www.lmalloyds.com/LMA/News/Blog/guidance_101221.aspx) (2021-12)
+	- Y5359: [Guidance for Handling a Ransomware Claim Incident](https://assets.lloyds.com/media/152f8157-8c79-42b1-8a41-792b3dbc88dd/Y5359-Guidance-for-handling-a-ransomware-claim-incident.pdf) (2021-12)
+## Vulnerability Management 
 * CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
  * NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)

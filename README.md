@@ -59,7 +59,7 @@ The focus of these resources is more on building resilience against the systemic
 ## ‘Zero’ Trust
 * US Office of Management and Budget: [Moving the U.S. Government Towards Zero Trust Cybersecurity Principle](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)' (2022-01)
 * NIST: SP 800-207: [Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture) (2020-08)
-* 
+
 ## Vulnerability Management 
 * CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 * FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)

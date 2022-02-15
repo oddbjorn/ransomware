@@ -1,15 +1,6 @@
 # Enterprise Ransomware Resources
 The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
 
-## Table of Contents
-   * [Resources]()
-   * [Cyber Insurance]()
-   * [Vulnerability Management]()
-   * [Selected Papers]()
-   * [Miscellaneous]()
-   * [Selected Nordic Ransomware Incidents]()
-   * [Books]()
-
 ## Guidance
 * [ransomware.org](https://ransomware.org/):
 	* Really excellent material on [what ransomware is](https://ransomware.org/what-is-ransomware/), [how it works](https://ransomware.org/how-does-ransomware-work/), [how to prevent it](https://ransomware.org/how-to-prevent-ransomware/) and [how to remove it](https://ransomware.org/how-to-remove-ransomware/)

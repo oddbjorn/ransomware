@@ -67,30 +67,4 @@ The focus of these resources is more on building resilience against the systemic
 ## Selected Nordic Ransomware Incidents
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
 
----- 
-
-## Defendable Infrastructure
-* MITRE: [ATT&CK](https://attack.mitre.org/) + [D3FEND](https://d3fend.mitre.org/) 
-* [Mandiant](https://www.mandiant.com/): [Proactive Preparation and Hardening to Protect Against Destructive Attacks](https://www.mandiant.com/resources/protect-against-destructive-attacks) (2022-01)
-* Lockheed-Martin: [Threat-Driven Approach to Cyber Security](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Threat-Driven-Approach.pdf) + [Defendable Architectures ](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Defendable-Architectures.pdf) (2019)
-* Richard Bejtlich: [Defensible Network Architecture 2.0](https://taosecurity.blogspot.com/2008/01/defensible-network-architecture-20.html) (2008)
-* CISA:
-	* AA21-116A:  [Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders](https://www.cisa.gov/uscert/ncas/alerts/aa21-116a)
-	* AA22-011A: [Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure ](https://www.cisa.gov/uscert/ncas/alerts/aa22-011a)
-	* AA21-008A: [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://www.cisa.gov/uscert/ncas/alerts/aa21-008a) 
-	* AA20-073A: [Enterprise VPN Security](https://www.cisa.gov/uscert/ncas/alerts/aa20-073a)
-* NIST: SP 800-160: [Engineering Trustworthy Secure Systems](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) (2022-01)
-* NSA:
-	* [Selecting and Hardening Remote Access VPN Solutions](https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF) (2021-09)
-	* [Detecting Abuse of Authentication Mechanisms](https://media.defense.gov/2020/Dec/17/2002554125/-1/-1/0/AUTHENTICATION_MECHANISMS_CSA_U_OO_198854_20.PDF) (2020-12)
-
-## ‘Zero’ Trust
-* US Office of Management and Budget: [Moving the U.S. Government Towards Zero Trust Cybersecurity Principle](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)' (2022-01)
-* NIST: SP 800-207: [Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture) (2020-08)
-* DOD: [Zero Trust Reference Architecture](https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf) (2021-03)
-
-## Vulnerability Management 
-* CISA: [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-* FIRST: [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) (2022-02)
- * NIST: SP 800-40r4: [Guide to Enterprise Patch Management Planning: Preventive Maintenance for Technology](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/draft) (2021-11)
-
+Material on Defendable Enterprises split out into separate list available [here](https://github.com/oddbjorn/defendable).

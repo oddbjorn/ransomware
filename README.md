@@ -25,6 +25,11 @@ The focus of these resources is more on building resilience against the systemic
 * [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/):
 	* ITSAP.00.099: [How to prevent and recover from ransomware](https://cyber.gc.ca/en/guidance/ransomware-how-prevent-and-recover-itsap00099) (2021-09) + [Ransomware playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099) (2021-11)
 * [Institute for Security + Technology](https://securityandtechnology.org/): [Ransomware Task Force](https://securityandtechnology.org/ransomwaretaskforce/) (RTF): [Combating Ransomware](https://securityandtechnology.org/ransomwaretaskforce/report/) (2021-09)
+* European Union Agency for Cybersecurity (ENISA):
+	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (2021-10)
+- Information Security Forum (ISF): Extinction Level Attacks: A Survival Guide (2020-11), Understanding the Ransomware Menace (2021)
+- VirusTotal: [Ransomware in a Global Context ](https://www.virustotal.com/go/ransomware-in-a-global-context-2021)(2021-10) 
+
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
 		- IR 8374 [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (2021-09)
@@ -32,14 +37,10 @@ The focus of these resources is more on building resilience against the systemic
 		- SP 1800-11: [Data Integrity: Recovering from Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-11/final) (2020-09)
 		- SP 1800-25: [Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-25/final) (2020-12)
 		- SP 1800-26: [Detecting and Responding to Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-26/final) (2020-12)
-		- SP 800-209: [Security Guidelines for Storage Infrastructure](https://csrc.nist.gov/publications/detail/sp/800-209/final) (2020-10)
+
 		- SP 800-184: [Guide for Cybersecurity Event Recovery](https://csrc.nist.gov/publications/detail/sp/800-184/final) (2016-12)
 	* National Cybersecurity Center of Excellence (NCCoE):
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
-* European Union Agency for Cybersecurity (ENISA):
-	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (2021-10)
-- Information Security Forum (ISF): Extinction Level Attacks: A Survival Guide (2020-11), Understanding the Ransomware Menace (2021)
-- VirusTotal: [Ransomware in a Global Context ](https://www.virustotal.com/go/ransomware-in-a-global-context-2021)(2021-10) 
 
 ## Threat Actors and TTPs:
 This resource 
@@ -58,6 +59,7 @@ This resource
 	- Y5359: [Guidance for Handling a Ransomware Claim Incident](https://assets.lloyds.com/media/152f8157-8c79-42b1-8a41-792b3dbc88dd/Y5359-Guidance-for-handling-a-ransomware-claim-incident.pdf) (2021-12)
 
 ## Storage Management, incl. and Backup/Restore
+* NIST: SP 800-209: [Security Guidelines for Storage Infrastructure](https://csrc.nist.gov/publications/detail/sp/800-209/final) (2020-10)
 
 ## Miscellaneous
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops

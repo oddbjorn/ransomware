@@ -46,6 +46,11 @@ The focus of these resources is more on building resilience against the systemic
 * ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)
 * CERT-FR: CERTFR-2021-CTI-006: [Ryuk](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-006/) (2021-02), CERTFR-2021-CTI-007: [Egregor](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-007/) (2021-03)
 * [The DFIR Report](https://thedfirreport.com/) (multiple excellent blog posts)
+* [Conti Ransomware Playbook](https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/) leak
+
+## Incident Reports
+* [PWC incident report](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) on the Conti attack against the Irish [Health Security Executive](https://www.hse.ie/eng/) (2021-12) + [lessons learned](https://www.hhs.gov/sites/default/files/lessons-learned-hse-attack.pdf) by HHS.gov (2022-02)
+* [KPMG incident report](https://www.ototen.no/_f/p1/i5689ceb7-72b4-44d0-970c-a5c4828047e5/offentlig-versjon.pdf) on the attack against Østre Toten municipality in January 2021 (2021-10)
 
 ## Selected Papers
 * [The Transnational Cybercrime Extortion Landscape and the Pandemic: Changes in Ransomware Offender Tactics, Attack Scalability and the Organisation of Offending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908159) - David S. Wall, European Law Enforcement Research Bulletin (2021)

@@ -1,5 +1,5 @@
 # Enterprise Ransomware Resources
-The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective, not specific threat actors.
+The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective.
 
 ## Guidance
 * [ransomware.org](https://ransomware.org/):

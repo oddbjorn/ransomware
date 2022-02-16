@@ -29,7 +29,6 @@ The focus of these resources is more on building resilience against the systemic
 	- [ENISA Threat Landscape 2021](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2021) (2021-10)
 - Information Security Forum (ISF): Extinction Level Attacks: A Survival Guide (2020-11), Understanding the Ransomware Menace (2021)
 - VirusTotal: [Ransomware in a Global Context ](https://www.virustotal.com/go/ransomware-in-a-global-context-2021)(2021-10) 
-
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
 		- IR 8374 [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (2021-09)
@@ -37,13 +36,11 @@ The focus of these resources is more on building resilience against the systemic
 		- SP 1800-11: [Data Integrity: Recovering from Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-11/final) (2020-09)
 		- SP 1800-25: [Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-25/final) (2020-12)
 		- SP 1800-26: [Detecting and Responding to Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-26/final) (2020-12)
-
 		- SP 800-184: [Guide for Cybersecurity Event Recovery](https://csrc.nist.gov/publications/detail/sp/800-184/final) (2016-12)
 	* National Cybersecurity Center of Excellence (NCCoE):
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 
 ## Threat Actors and TTPs:
-This resource 
 * CISA: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
 * FBI/USSS: [BlackByte](https://www.ic3.gov/Media/News/2022/220211.pdf) (2022-02)
 * ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)

@@ -40,14 +40,6 @@ The focus of these resources is more on building resilience against the systemic
 	* National Cybersecurity Center of Excellence (NCCoE):
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
 
-## Threat Actors and TTPs:
-* CISA: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
-* FBI: [Diavol](https://www.ic3.gov/Media/News/2022/220120.pdf) (2022-01), [BlackByte](https://www.ic3.gov/Media/News/2022/220211.pdf) (2022-02), [Cuba](https://www.ic3.gov/Media/News/2021/211203-2.pdf) (2021-12), [HelloKitty](https://www.ic3.gov/Media/News/2021/211029.pdf) + [BlackMatter](https://www.ic3.gov/Media/News/2021/211019.pdf) (2021-10), [Hive](https://www.ic3.gov/Media/News/2021/210825.pdf) (2021-08), [Darkside](https://www.ic3.gov/Media/News/2021/210520.pdf) (2021-05)
-* ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)
-* CERT-FR: CERTFR-2021-CTI-006: [Ryuk](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-006/) (2021-02), CERTFR-2021-CTI-007: [Egregor](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-007/) (2021-03)
-* [The DFIR Report](https://thedfirreport.com/) (multiple excellent blog posts)
-* [Conti Ransomware Playbook](https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/) leak
-
 ## Incident Reports
 * [PWC incident report](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) on the Conti attack against the Irish [Health Security Executive](https://www.hse.ie/eng/) (2021-12) + [lessons learned](https://www.hhs.gov/sites/default/files/lessons-learned-hse-attack.pdf) by HHS.gov (2022-02)
 * [KPMG incident report](https://www.ototen.no/_f/p1/i5689ceb7-72b4-44d0-970c-a5c4828047e5/offentlig-versjon.pdf) on the attack against Østre Toten municipality in January 2021 (2021-10)
@@ -62,6 +54,14 @@ The focus of these resources is more on building resilience against the systemic
 
 ## Storage Management, incl. and Backup/Restore
 * NIST: SP 800-209: [Security Guidelines for Storage Infrastructure](https://csrc.nist.gov/publications/detail/sp/800-209/final) (2020-10)
+
+## Threat Actors and TTPs:
+* CISA: [BlackMatter](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a), [Conti](https://www.cisa.gov/uscert/ncas/alerts/aa21-265a), [Darkside](https://www.cisa.gov/uscert/ncas/alerts/aa21-131a), [SamSam](https://www.cisa.gov/uscert/ncas/alerts/AA18-337A), [Petya](https://www.cisa.gov/uscert/ncas/alerts/TA17-181A)
+* FBI: [Diavol](https://www.ic3.gov/Media/News/2022/220120.pdf) (2022-01), [BlackByte](https://www.ic3.gov/Media/News/2022/220211.pdf) (2022-02), [Cuba](https://www.ic3.gov/Media/News/2021/211203-2.pdf) (2021-12), [HelloKitty](https://www.ic3.gov/Media/News/2021/211029.pdf) + [BlackMatter](https://www.ic3.gov/Media/News/2021/211019.pdf) (2021-10), [Hive](https://www.ic3.gov/Media/News/2021/210825.pdf) (2021-08), [Darkside](https://www.ic3.gov/Media/News/2021/210520.pdf) (2021-05)
+* ACSC: [Conti](https://www.cyber.gov.au/sites/default/files/2021-12/ACSC%20Ransomware%20Profile%20Conti%20-%2010%20December_0.pdf) (2021-12), [LockBit 2.0](https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20) (2021-08)
+* CERT-FR: CERTFR-2021-CTI-006: [Ryuk](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-006/) (2021-02), CERTFR-2021-CTI-007: [Egregor](https://www.cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-007/) (2021-03)
+* [The DFIR Report](https://thedfirreport.com/) (multiple excellent blog posts)
+* [Conti Ransomware Playbook](https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/) leak
 
 ## Miscellaneous
   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops

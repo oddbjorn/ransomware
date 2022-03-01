@@ -1,5 +1,5 @@
 # Enterprise Ransomware Resources
-The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective.
+The focus of these resources is more on building resilience against the systemic threat of ransomware from an enterprise perspective. Last updated 2022-02-18. Feel free to send pull requests or tips to [me](mailto:oddbjorn@tricknology.org "Ransomware Resource Tip").
 
 ## Guidance
 * [ransomware.org](https://ransomware.org/):
@@ -31,7 +31,8 @@ The focus of these resources is more on building resilience against the systemic
 - VirusTotal: [Ransomware in a Global Context ](https://www.virustotal.com/go/ransomware-in-a-global-context-2021)(2021-10) 
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
-		- IR 8374 [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (2021-09)
+		- [Ransomware Protection and Response](https://csrc.nist.gov/projects/ransomware-protection-and-response)
+		 - IR 8374 [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (2021-09)
 		- [Securing Data Integrity Against Ransomware Attacks: Using the NIST Cybersecurity Framework and NIST Cybersecurity Practice Guides](https://csrc.nist.gov/publications/detail/white-paper/2020/10/01/securing-data-integrity-against-ransomware-attacks/draft)
 		- SP 1800-11: [Data Integrity: Recovering from Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-11/final) (2020-09)
 		- SP 1800-25: [Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-25/final) (2020-12)
@@ -39,6 +40,11 @@ The focus of these resources is more on building resilience against the systemic
 		- SP 800-184: [Guide for Cybersecurity Event Recovery](https://csrc.nist.gov/publications/detail/sp/800-184/final) (2016-12)
 	* National Cybersecurity Center of Excellence (NCCoE):
 		- Data Integrity: [Detecting and Responding to Ransomware and Other Destructive Events ](https://www.nccoe.nist.gov/data-integrity-detecting-and-responding-ransomware-and-other-destructive-events)
+	* Microsoft:
+		* [Ransomware and Extortion](https://docs.microsoft.com/en-us/security/compass/human-operated-ransomware) (2022-02-19)
+		* [Backup and restore plan to protect against ransomware](https://docs.microsoft.com/en-us/security/compass/backup-plan-to-protect-against-ransomware) (2022-02-19)
+		* [DART ransomware approach and best practices ](https://docs.microsoft.com/en-us/security/compass/incident-response-playbook-dart-ransomware-approach)(2022-02-19)
+		* [Azure Defenses for Ransomware Attack](https://azure.microsoft.com/en-us/resources/azure-defenses-for-ransomware-attack/) (2021-09-10)
 
 ## Incident Reports
 * [PWC incident report](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) on the Conti attack against the Irish [Health Security Executive](https://www.hse.ie/eng/) (2021-12) + [lessons learned](https://www.hhs.gov/sites/default/files/lessons-learned-hse-attack.pdf) by HHS.gov (2022-02)
@@ -64,10 +70,15 @@ The focus of these resources is more on building resilience against the systemic
 * [Conti Ransomware Playbook](https://www.bleepingcomputer.com/news/security/translated-conti-ransomware-playbook-gives-insight-into-attacks/) leak
 
 ## Miscellaneous
-  - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
+   - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
  - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
 * Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
+* [Emsisoft](https://nitter.net/AricToler/status/1494738571483353092#m)/[Fabian Wosar](https://nitter.net/fwosar): Decryption tools, faster decryption, various guidance and commercial tooling
+* Amazon AWS:
+	- [Ransomware mitigation: Top 5 protections and recovery preparation actions](https://aws.amazon.com/blogs/security/ransomware-mitigation-top-5-protections-and-recovery-preparation-actions/) (2021-09)
+	- [Ransomware Risk Management on AWS Using the NIST Cyber Security Framework (CSF) whitepaper](https://d1.awsstatic.com/whitepapers/Security/ransomware-risk-management-on-aws-using-csf.pdf) (2021-09)
+	- [Securing your AWS environments from ransomware](https://d1.awsstatic.com/WWPS/pdf/AWSPS_ransomware_ebook_Apr-2020.pdf) (2020-04)
 
 ## Selected Nordic Ransomware Incidents
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)

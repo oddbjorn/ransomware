@@ -31,8 +31,9 @@ The focus of these resources is more on building resilience against the systemic
 - VirusTotal: [Ransomware in a Global Context ](https://www.virustotal.com/go/ransomware-in-a-global-context-2021)(2021-10) 
 * National Institute of Science and Technology (NIST):
 	* Computer Security Resource Center (CSRC):
+		- [Getting Started with Cybersecurity Risk Management: Ransomware](https://csrc.nist.gov/csrc/media/Publications/white-paper/2022/02/24/getting-started-with-cybersecurity-risk-management-ransomware/final/documents/quick-start-guide--ransomware.pdf) (2022-02)
+		- IR 8374: [Ransomware Risk Management: A Cybersecurity Framework Profile](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8374.pdf) (2022-02)
 		- [Ransomware Protection and Response](https://csrc.nist.gov/projects/ransomware-protection-and-response)
-		 - IR 8374 [Cybersecurity Framework Profile for Ransomware Risk Management](https://csrc.nist.gov/publications/detail/nistir/8374/draft) (2021-09)
 		- [Securing Data Integrity Against Ransomware Attacks: Using the NIST Cybersecurity Framework and NIST Cybersecurity Practice Guides](https://csrc.nist.gov/publications/detail/white-paper/2020/10/01/securing-data-integrity-against-ransomware-attacks/draft)
 		- SP 1800-11: [Data Integrity: Recovering from Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-11/final) (2020-09)
 		- SP 1800-25: [Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://csrc.nist.gov/publications/detail/sp/1800-25/final) (2020-12)

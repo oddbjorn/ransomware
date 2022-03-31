@@ -79,6 +79,7 @@ The focus of these resources is more on building resilience against the systemic
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
 * Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
 * [Emsisoft](https://nitter.net/AricToler/status/1494738571483353092#m)/[Fabian Wosar](https://nitter.net/fwosar): Decryption tools, faster decryption, various guidance and commercial tooling
+* Andy Robbins of SpecterOps: [BloodHound versus Ransomware: A Defender’s Guide](https://posts.specterops.io/bloodhound-versus-ransomware-a-defenders-guide-28147dedb73b) (2021-06-08)
 * Amazon AWS:
 	- [Ransomware mitigation: Top 5 protections and recovery preparation actions](https://aws.amazon.com/blogs/security/ransomware-mitigation-top-5-protections-and-recovery-preparation-actions/) (2021-09)
 	- [Ransomware Risk Management on AWS Using the NIST Cyber Security Framework (CSF) whitepaper](https://d1.awsstatic.com/whitepapers/Security/ransomware-risk-management-on-aws-using-csf.pdf) (2021-09)

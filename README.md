@@ -88,4 +88,4 @@ The focus of these resources is more on building resilience against the systemic
 ## Selected Nordic Ransomware Incidents
 ![Selected Nordic Ransomware Incidents](https://github.com/oddbjorn/ransomware/blob/main/Selected%20Nordic%20Ransomware%20Incidents.png)
 
-Material on Defendable Enterprises split out into separate list available [here](https://github.com/oddbjorn/defendable).
+Material on Defendable Enterprises split out into separate list available [here](https://github.com/oddbjorn/defensible).

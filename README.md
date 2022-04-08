@@ -77,7 +77,7 @@ The focus of these resources is more on building resilience against the systemic
    - [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml) - By @nyxbone and @cyb3rops
  - [Ransomware Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 * [Curated Intelligence](https://www.curatedintel.org/): [Initial Access Broker Landscape](https://github.com/curated-intel/Initial-Access-Broker-Landscape)
-* Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/)
+* Simulators: [Ransim](https://id-ransomware.malwarehunterteam.com/), [QuickBuck](https://github.com/NextronSystems/ransomware-simulator)
 * [Emsisoft](https://nitter.net/AricToler/status/1494738571483353092#m)/[Fabian Wosar](https://nitter.net/fwosar): Decryption tools, faster decryption, various guidance and commercial tooling
 * Andy Robbins of SpecterOps: [BloodHound versus Ransomware: A Defender’s Guide](https://posts.specterops.io/bloodhound-versus-ransomware-a-defenders-guide-28147dedb73b) (2021-06-08)
 * Amazon AWS:
